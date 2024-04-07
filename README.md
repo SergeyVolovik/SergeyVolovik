@@ -7,17 +7,17 @@
 
 - 💬 Ask me about **React, Redux, Vue, Vuex, Pinia**
 
-- 📫 How to reach me:
-
-<span>Email: <a href="mailto: serhii.volovik@gmail.com" target="blank"><b>serhii.volovik@gmail.com</b></a></span>
-<br/>
-<span>Telegram: <a href="https://t.me/sergey_volovik" target="blank"><b>@sergey_volovik<b/></a></span>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sergey-volovik-4951a3176/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergey-volovik-4951a3176/" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sergey-volovik-4951a3176/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergey-volovik-4951a3176/" height="30" width="40" />
+  </a>
+  <a href="https://t.me/sergey_volovik" target="blank">
+   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Telegram" height="30" width="40" />
+  </a>
+  <a href="mailto: serhii.volovik@gmail.com" target="blank">
+   <img align="center" src="https://www.svgrepo.com/show/145950/email.svg" alt="Email" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
