@@ -8,12 +8,15 @@
 - 💬 Ask me about **React, Redux, Vue, Vuex, Pinia**
 
 - 📫 How to reach me:
- Email: **serhii.volovik@gmail.com**
- Telegram: **@sergey_volovik**
+
+ <span>Email: <a href="mailto: serhii.volovik@gmail.com"><b>serhii.volovik@gmail.com</b></a></span>
+ <span>Telegram: <a href="https://t.me/sergey_volovik"><b>@sergey_volovik<b/></a></span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sergey-volovik-4951a3176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergey-volovik-4951a3176/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sergey-volovik-4951a3176/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergey-volovik-4951a3176/" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
