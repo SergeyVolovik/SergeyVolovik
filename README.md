@@ -8,6 +8,7 @@
 - 💬 Ask me about **React, Redux, Vue, Vuex, Pinia**
 
 - 📫 How to reach me:
+
 <span>Email: <a href="mailto: serhii.volovik@gmail.com" target="blank"><b>serhii.volovik@gmail.com</b></a></span>
 <br/>
 <span>Telegram: <a href="https://t.me/sergey_volovik" target="blank"><b>@sergey_volovik<b/></a></span>
