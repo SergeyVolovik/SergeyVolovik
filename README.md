@@ -84,6 +84,22 @@
       height="40"
     />
   </a>
+  <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg"
+      alt="redux"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://mui.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
+      alt="redux"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -117,12 +133,12 @@
     />
   </a>
   <a
-    href="https://www.adobe.com/products/xd.html"
+    href="https://www.adobe.com"
     target="_blank"
     rel="noreferrer"
   >
     <img
-      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg"
       alt="xd"
       width="40"
       height="40"
