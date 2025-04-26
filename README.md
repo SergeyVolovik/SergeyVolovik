@@ -1,6 +1,7 @@
 ![image](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)
 <h1 align="center">Hi 👋, I'm Serhii Volovyk</h1>
-<h3 align="center">A passionate frontend developer from Ukraine🇺🇦</h3>
+<h3 align="center">A passionate frontend developer from Ukraine ![image](https://github.com/user-attachments/assets/a33e17e4-c1ed-4bdb-a25b-6b32ee294161)
+</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/320114/screenshots/2575134/media/5b7f22deeb1522d5cb93fc864108bf25.gif" alt="Code" />
 
 - 🌱 I’m currently learning **TypeScript, Jest, React Test Library**
