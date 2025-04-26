@@ -13,10 +13,10 @@
   <a href="https://www.linkedin.com/in/serhii-volovyk-4951a3176" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergey-volovik-4951a3176/" height="30" width="40" />
   </a>
-  <a href="https://t.me/serhii_volovyk" target="blank">
+  <a href="https://t.me/serhii_volovyk" target="_blank">
    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Telegram" height="40" width="40" />
   </a>
-  <a href="mailto: serhii.volovik@gmail.com" target="blank">
+  <a href="mailto: serhii.volovik@gmail.com" target="_blank">
    <img align="center" src="https://www.svgrepo.com/show/145950/email.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
